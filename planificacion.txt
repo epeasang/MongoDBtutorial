@@ -1,0 +1,31 @@
+Título: Clasificación de vehículos
+Autores: Eduardo Peña Sanguino & Ahmed Ziabat Ziabat
+Descripción: Analisis de datos y visualizacion para predecir el precio de un coche
+Objetivos: Entrenar un modelo para que pueda devolver el precio del mismo y visualizar estadisticamente los datos del dataset
+Repositorios consultados: Cars Dataset de la Universidad de Standford. 
+    https://github.com/sanithps98/Automobile-Dataset-Analysis
+    https://github.com/ajaymache/data-analysis-using-python
+Motivación: Profundizar en el conocimiento de aprendizaje automatico, iniciarse en el analisis de datos.
+Planificación:
+Dia 1. Exploracion de datos
+
+-Preparación del entorno
+-Preprocesado de los datos
+-Formateo de datos
+-Normalizacion de datos
+
+Dia 2. Explorar el analisis de datos
+
+-Estadisticas descriptivas
+-Agrupacion de datos
+-Correlacion de datos
+-Analisis de varianza en los datos
+
+Dia 3. Desarrollo de modelos
+
+-Aplicacion de Simple Linear Regression
+-Aplicacion de Multiple Linear Regression
+
+Dia 4.Evaluacion de modelos y resultados
+
+-Creacion y analisis de graficas de resultados.
