@@ -9,10 +9,15 @@ Motivación: Profundizar en el conocimiento de aprendizaje automatico, iniciarse
 Planificación:
 Dia 1. Exploracion de datos
 
--Preparación del entorno
--Preprocesado de los datos
--Formateo de datos
--Normalizacion de datos
+
+-Búsqueda de dataset adecuado e ideas 2.5h Ahmed y Eduardo
+-Preparación y solución de conflictos en Conda 30min Ahmed
+-Pequeña introducción a librería Pandas para manejo de datos 20 min Eduardo
+-Pruebas de lectura y procesado de datos 30 min Eduardo 
+-Estandarización de datos con Pandas 30 min Eduardo
+-Reajuste de planificación 30 min Ahmed
+-Búsqueda, identificación, tipado y corrección de datos ausentes 30min Ahmed
+
 
 Dia 2. Explorar el analisis de datos
 
